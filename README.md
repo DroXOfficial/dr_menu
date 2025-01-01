@@ -1,2 +1,5 @@
 # dr_menu
-Releasing soon
+aduty
+admincommands
+giveitem
+
